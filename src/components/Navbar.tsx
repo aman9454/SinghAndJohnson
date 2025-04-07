@@ -31,7 +31,7 @@ const Navbar = () => {
         {/* Logo */}
         <a href="#" className="flex items-center rounded-sm">
           <img 
-            src="/public/lovable-uploads/c5e2af59-4645-4e15-ab1d-909aca21db67.png" 
+            src="/lovable-uploads/c5e2af59-4645-4e15-ab1d-909aca21db67.png" 
             alt="Singh & Johnson Logo" 
             className={`h-12 ${isScrolled ? "": "invert-0"}`}
           />

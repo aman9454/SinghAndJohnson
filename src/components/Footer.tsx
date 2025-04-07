@@ -11,7 +11,7 @@ const Footer = () => {
           {/* Logo & Mini About */}
           <div>
             <img 
-              src="/public/lovable-uploads/c5e2af59-4645-4e15-ab1d-909aca21db67.png" 
+              src="/lovable-uploads/c5e2af59-4645-4e15-ab1d-909aca21db67.png" 
               alt="Singh & Johnson Logo" 
               className="h-12 mb-4 invert"
             />
@@ -133,7 +133,7 @@ const Footer = () => {
                 Privacy Policy
               </a>
               <a href="#" className="text-gray-500 hover:text-brand-orange text-sm transition-colors duration-300">
-                Terms of Service
+                Terms of Services
               </a>
             </div>
           </div>
